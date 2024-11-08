@@ -270,12 +270,6 @@ dex_import {
 }
 
 dex_import {
-	name: "tcmclient",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/tcmclient.jar"],
-}
-
-dex_import {
 	name: "com.quicinc.cne.api-V1.1-java",
 	owner: "xiaomi",
 	jars: ["proprietary/product/framework/com.quicinc.cne.api-V1.1-java.jar"],
