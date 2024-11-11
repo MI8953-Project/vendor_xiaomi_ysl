@@ -1176,7 +1176,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     com.qti.snapdragon.sdk.display \
-    tcmclient \
     com.quicinc.cne.api-V1.1-java \
     com.quicinc.cne.constants-V1.0-java \
     com.quicinc.cne.constants-V2.0-java \
